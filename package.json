@@ -1,0 +1,23 @@
+{
+  "name": "graphql_udemy",
+  "version": "1.0.0",
+  "description": "Curso de GraphQL ministrado pelo professor Plínio Naves através da plataforma Udemy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatAlpino/GraphQL_Udemy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatAlpino/GraphQL_Udemy/issues"
+  },
+  "homepage": "https://github.com/NatAlpino/GraphQL_Udemy#readme",
+  "devDependencies": {
+    "typescript": "2.5.3"
+  }
+}
