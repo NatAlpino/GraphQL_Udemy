@@ -1,3 +1,4 @@
 console.log("Hello Word");
 
-let a: string = "Hello";
+console.log('nodemon');
+

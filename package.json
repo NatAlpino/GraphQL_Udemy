@@ -4,7 +4,8 @@
   "description": "Curso de GraphQL ministrado pelo professor Plínio Naves através da plataforma Udemy.",
   "main": "index.js",
   "scripts": {
-    "gulp": "node_modules/.bin/gulp" 
+    "dev": "node_modules/.bin/nodemon --delay 5 dist/app",
+    "gulp": "node_modules/.bin/gulp"
   },
   "repository": {
     "type": "git",
@@ -18,9 +19,10 @@
   },
   "homepage": "https://github.com/NatAlpino/GraphQL_Udemy#readme",
   "devDependencies": {
-    "gulp": "3.9.1",
-    "gulp-clean": "0.3.2",
-    "gulp-typescript": "3.2.2",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "nodemon": "^2.0.15",
     "typescript": "2.5.3"
   }
 }

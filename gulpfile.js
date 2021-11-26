@@ -1,4 +1,5 @@
-//automatizando o gulp:
+/*automatizando o gulp: Sempre que eu fizer uma alteraçao no meu codigo fonte
+o gulp ja compila o codigo e joga la pro dist*/
 
 const gulp = require('gulp');
 const clean = require('gulp-clean');
